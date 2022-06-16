@@ -4,9 +4,9 @@
 
 🧠 Aprendendo desenvolvimento Back-End em Javascript pela **{reprograma}**;
 
-🔺 Mineira
+🔺 Mineira;
 
-📚 Meus projetos estão comentados! Por questões didáticas, subo todos meus projetos com comentários para que consiga utilizá-los como consulta.
+📚 Meus projetos estão comentados! Por questões didáticas, subo todos meus projetos com comentários para que consiga utilizá-los como consulta;
 
 💌 Vamos conversar melhor?! Entre em contato:
 
