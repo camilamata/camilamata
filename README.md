@@ -1,16 +1,18 @@
-### Hi there 👋
+### Oie! Bem vindo(a) 💗
 
-<!--
-**camilamata/camilamata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+⚙️ Graduanda em **Engenharia Civil** pela **Universidade Federal de Viçosa**;
 
-Here are some ideas to get you started:
+🧠 Aprendendo desenvolvimento Back-End em Javascript pela **{reprograma}**;
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔺 Mineira
+
+📚 Meus projetos estão comentados! Por questões didáticas, subo todos meus projetos com comentários para que consiga utilizá-los como consulta.
+
+💌 Vamos conversar melhor?! Entre em contato:
+
+
+<div> 
+
+  <a href = "mailto:contatocamila.mata14@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/camilamata/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
